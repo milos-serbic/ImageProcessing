@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GroovyImageProcessing/GroovyImageProcessing.iml" filepath="$PROJECT_DIR$/GroovyImageProcessing/GroovyImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageProcessing.iml" filepath="$PROJECT_DIR$/ImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaImageProcessing/JavaImageProcessing.iml" filepath="$PROJECT_DIR$/JavaImageProcessing/JavaImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaImageProcessing/ScalaImageProcessing.iml" filepath="$PROJECT_DIR$/ScalaImageProcessing/ScalaImageProcessing.iml" />
+    </modules>
+  </component>
+</project>
